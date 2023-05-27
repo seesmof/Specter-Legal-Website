@@ -4,6 +4,6 @@
 
 @layer components {
   .button {
-    @apply bg-background border border-accent rounded-full p-2 px-4;
+    @apply bg-background border-accent p-2 px-4 border rounded-full;
   }
 }
