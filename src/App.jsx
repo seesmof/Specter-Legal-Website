@@ -5,7 +5,7 @@ import Areas from "./components/Areas";
 
 const Page = () => {
   return (
-    <div className="min-h-screen w-full scroll-smooth bg-background text-accent">
+    <div className="">
       <Header />
       <Hero />
       <Areas />
