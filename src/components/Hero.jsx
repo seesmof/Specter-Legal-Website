@@ -12,7 +12,7 @@ const Hero = () => {
         Through 10 years of experience and over 200 million in transaction
         values we offer the most premium legal services.
       </p>
-      <a href="#" className="button scale-[1.35] px-5">
+      <a href="#" className="button mt-2 scale-[1.35] px-5">
         Let's talk
       </a>
     </div>
