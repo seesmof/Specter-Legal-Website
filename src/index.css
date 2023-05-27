@@ -6,7 +6,4 @@
   .button {
     @apply rounded-full border border-accent bg-background p-2 px-4 duration-300 hover:bg-accent/20;
   }
-  .heading {
-    @apply text-center text-3xl font-bold;
-  }
 }
