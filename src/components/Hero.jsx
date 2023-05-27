@@ -16,7 +16,7 @@ const Hero = () => {
         Let's talk
       </a>
 
-      <div className="relative flex w-full items-center justify-center"></div>
+      <div className="relative flex h-20 w-full items-center justify-center bg-accent"></div>
     </div>
   );
 };
