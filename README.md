@@ -1,8 +1,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <a href="https://assets.website-files.com/643a7ed169b7a562c0cd61f3/643a81a4d7203275741ccd62_LogoLight.svg">
-    <img src="./img/logo.png" alt="Logo" height="80">
+  <a href="https://github.com/seesmof/specter-ross-legal-company-landing">
+    <img src="./public/logo.svg" alt="Logo" height="80">
   </a>
 
 <h1 align="center">Specter Ross Landing</h1>
