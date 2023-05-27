@@ -12,7 +12,7 @@ const Header = () => {
         />
       </a>
       <div className="flex flex-row items-center gap-2">
-        <a href="#" className="button font-medium capitalize">
+        <a href="#" className="button capitalize">
           cart
         </a>
       </div>
