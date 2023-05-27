@@ -3,7 +3,7 @@ import "../index.css";
 
 const Hero = () => {
   return (
-    <div className="flex flex-col items-center justify-center p-4 py-12 pb-6">
+    <div className="flex flex-col items-center justify-center p-4 py-16 pb-6">
       <h1 className="px-4 text-center text-5xl font-[400] leading-[1.35]">
         Offering the highest quality{" "}
         <span className="font-[300] italic">legal services</span>
@@ -12,9 +12,11 @@ const Hero = () => {
         Through 10 years of experience and over 200 million in transaction
         values we offer the most premium legal services.
       </p>
-      <a href="#" className="button mt-2 scale-[1.35] px-5">
+      <a href="#" className="button mt-2 scale-[1.35] px-8 py-3">
         Let's talk
       </a>
+
+      <div className="relative flex w-full items-center justify-center"></div>
     </div>
   );
 };
