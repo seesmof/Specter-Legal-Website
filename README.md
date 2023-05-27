@@ -19,7 +19,7 @@
 
 ## About
 
-description
+This is a landing page for an imaginary legal consultment company called "Specter Ross". It is a single-page application made with TailwindCSS and vanilla JavaScript. Fully functional, fully responsive
 
 ## Screenshots
 
