@@ -1,7 +1,12 @@
 import React from "react";
+import Header from "./components/Header";
 
-const Header = () => {
-  return <div>Header</div>;
+const Page = () => {
+  return (
+    <div className="bg-background text-accent scroll-smooth w-full min-h-screen">
+      <Header />
+    </div>
+  );
 };
 
-export default Header;
+export default Page;
