@@ -19,11 +19,7 @@ const Hero = () => {
       </div>
 
       <div className="relative mt-14 flex w-full items-center justify-center">
-        <img
-          src="../../public/hero_image.webp"
-          alt=""
-          className="z-20 scale-90"
-        />
+        <img src="/hero_image.webp" alt="" className="z-20 scale-90" />
         <div className="absolute z-10 h-2/3 w-full bg-accent"></div>
       </div>
     </div>
