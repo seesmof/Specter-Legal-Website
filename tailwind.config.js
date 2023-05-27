@@ -7,6 +7,8 @@ export default {
         background: "#0e0e0e",
         accent: "#dac5a6",
         secondary: "#23211e",
+        card_background: "#252424",
+        card_border: "#363330",
       },
     },
   },
