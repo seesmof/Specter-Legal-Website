@@ -9,6 +9,7 @@ export default {
         secondary: "#23211e",
         card_background: "#252424",
         card_border: "#363330",
+        card_border_hover: "#6e6557",
       },
     },
   },
